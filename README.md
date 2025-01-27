@@ -9,12 +9,12 @@ For more details on SAC, refer to the [https://arxiv.org/abs/1812.05905](https:/
 
 ---
 
+## Animation of the Learned Agent
+![Animation](MC_SAC_render.gif)
+
 ## Getting Started
 ### Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/shahrajabian/SAC_MountainCarContinuous.git
    cd SAC_MountainCarContinuous
-## Animation of the Learned Agent
-![Animation](MC_SAC_render.gif)
-
